@@ -1,6 +1,0 @@
-* Hello world
-Here is a doc to go onto GitHub
-** First heading
-I'm trying to check if GitHub will render an org document
-** 2nd heading
-Here is a [[https://github.com/MurryMcIntosh/intro-software-tech][link]]
